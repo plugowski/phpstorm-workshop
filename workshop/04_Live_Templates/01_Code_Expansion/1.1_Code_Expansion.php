@@ -35,7 +35,7 @@ class CodeExpansion
         $numbers = array(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
         foreach ($numbers as $k => $l) {
-
+echo 'dsfsdfsdds';
         }
         // 4. Loop over the $numbers array. Type "fore" and hit TAB.
         //    In the first hotspot, enter $numbers and hit TAB again.
