@@ -34,6 +34,9 @@ class CodeExpansion
     {
         $numbers = array(1, 2, 3, 4, 5, 6, 7, 8, 9);
 
+        foreach ($numbers as $k => $l) {
+
+        }
         // 4. Loop over the $numbers array. Type "fore" and hit TAB.
         //    In the first hotspot, enter $numbers and hit TAB again.
         //    In the second hotspot, accept the default variable name and hit TAB to move to the loop body.
